@@ -37,7 +37,7 @@ Data Modeling
 
 **📊 Customer Report:** 
 
-**Key KPIs**
+**Key KPIs:**
 
 💰 Revenue: 55M
 
@@ -73,7 +73,7 @@ Interactive filters for Card Category, Quarter, Transaction Mode, and Week.
 
 **📈 Transaction Report Dashboard:**
 
-**Key KPIs**
+**Key KPIs:**
 
 💰 Revenue: 55M
 
