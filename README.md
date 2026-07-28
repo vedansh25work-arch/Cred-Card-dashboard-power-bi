@@ -150,15 +150,15 @@ Support data-driven business decisions
 
 📁 Repository Structure
 Credit-Card-Financial-Dashboard/
-│
-├── Dashboard Screenshots/
-│   ├── Credit Card Customer Report.png
-│   ├── Credit Card Transaction Report.png
-│
-├── cc report.pbix
-├── cust_add.csv
-├── cc_add.csv
-├── README.md
+ │
+ ├── Dashboard Screenshots/
+ │   ├── Credit Card Customer Report.png
+ │   ├── Credit Card Transaction Report.png
+ │
+ ├── cc report.pbix
+ ├── cust_add.csv
+ ├── cc_add.csv
+ ├── README.md
 
 
 
