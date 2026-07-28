@@ -7,11 +7,12 @@ The project consists of two dashboards:
 
 Customer Report Dashboard ->
 
-https://github.com/vedansh25work-arch/Cred-Card-dashboard-power-bi/blob/main/Credit%20Card%20Customer%20Report.png
+<img src="Credit%20Card%20Customer%20Report.png" width="1000">
 
-Transaction Report Dashboard ->
 
-https://github.com/vedansh25work-arch/Cred-Card-dashboard-power-bi/blob/main/Credit%20Card%20Transaction%20Report.png
+## 📈 Transaction Report Dashboard
+
+<img src="Credit%20Card%20Transaction%20Report.png" width="1000">
 
 
 
