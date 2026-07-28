@@ -1,5 +1,5 @@
 # Cred-Card-dashboard-power-bi
-**📌 Project Overview**
+**📌 Project Overview:**
 
 This project is an interactive Power BI dashboard built to analyze credit card customer and transaction data. It provides insights into customer demographics, spending behavior, revenue trends, and transaction performance through interactive visualizations and KPIs.
 
@@ -9,7 +9,8 @@ Customer Report Dashboard
 Transaction Report Dashboard
 
 
-**🎯 Project Objectives**
+
+**🎯 Project Objectives:**
 
 Analyze customer demographics and spending behavior.
 
@@ -21,7 +22,8 @@ Compare the performance of different card categories.
 
 Support data-driven business decisions.
 
-**🛠️ Tools & Technologies**
+
+**🛠️ Tools & Technologies:**
 
 Microsoft Power BI
 
@@ -32,7 +34,8 @@ DAX (Data Analysis Expressions)
 Data Modeling
 
 
-**📊 Customer Report** 
+
+**📊 Customer Report:** 
 
 **Key KPIs**
 
@@ -46,7 +49,8 @@ Data Modeling
 
 ⭐ Customer Satisfaction Score: 3.19
 
-**Analysis Includes**
+
+**Analysis Includes:**
 
 Revenue by Week
 
@@ -66,7 +70,9 @@ Gender Distribution
 
 Interactive filters for Card Category, Quarter, Transaction Mode, and Week.
 
-**📈 Transaction Report Dashboard**
+
+**📈 Transaction Report Dashboard:**
+
 **Key KPIs**
 
 💰 Revenue: 55M
@@ -79,7 +85,8 @@ Interactive filters for Card Category, Quarter, Transaction Mode, and Week.
 
 💎 Credit Limit: 87.3M
 
-**Analysis Includes**
+
+**Analysis Includes:**
 
 Revenue by Card Category
 
@@ -94,6 +101,7 @@ Quarterly Revenue vs Transaction Count
 Payment Method Analysis
 
 Interactive filters for Income Group, Card Category, Quarter, Gender, and Week.
+
 
 **🔑 Key Insights:**
 
@@ -139,6 +147,7 @@ Credit-Card-Financial-Dashboard/
 └── README.md
 
 
+
 **⭐ Project Highlights:**
 
 Interactive Power BI Dashboard
@@ -154,7 +163,6 @@ Data Modeling
 Dynamic Slicers & Cross-Filtering
 
 Customer & Transaction Analytics
-
 
 
 **🚀 Future Enhancements:**
