@@ -16,7 +16,7 @@ The project consists of two dashboards:
 
 
 
-**🎯 Project Objectives:**
+##**🎯 Project Objectives:**
 
 - Analyze customer demographics and spending behavior.
   
@@ -29,7 +29,7 @@ The project consists of two dashboards:
 - Support data-driven business decisions.
 
 
-**🛠️ Tools & Technologies:**
+##**🛠️ Tools & Technologies:**
 
 - Microsoft Power BI
 
@@ -41,7 +41,7 @@ The project consists of two dashboards:
 
 
 
-**📊 Customer Report:** 
+##**📊 Customer Report:** 
 
 **Key KPIs:**
 
@@ -77,7 +77,7 @@ The project consists of two dashboards:
 - Interactive filters for Card Category, Quarter, Transaction Mode, and Week.
 
 
-**📈 Transaction Report Dashboard:**
+##**📈 Transaction Report Dashboard:**
 
 **Key KPIs:**
 
@@ -126,7 +126,7 @@ The project consists of two dashboards:
 - Texas, New York, and California are the top revenue-generating states.
 
 
-**📁 Repository Structure:**
+##**📁 Repository Structure:**
 
 Credit-Card-Financial-Dashboard/
 
@@ -154,7 +154,7 @@ Credit-Card-Financial-Dashboard/
 
 
 
-**⭐ Project Highlights:**
+##**⭐ Project Highlights:**
 
 - Interactive Power BI Dashboard
   
@@ -171,7 +171,7 @@ Credit-Card-Financial-Dashboard/
 - Customer & Transaction Analytics
 
 
-**🚀 Future Enhancements:**
+##**🚀 Future Enhancements:**
 
 - Add monthly and yearly trend analysis.
   
