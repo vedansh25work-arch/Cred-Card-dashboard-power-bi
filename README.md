@@ -5,22 +5,25 @@ This project is an interactive Power BI dashboard built to analyze credit card c
 
 The project consists of two dashboards:
 
-Customer Report Dashboard
+Customer Report Dashboard 
+
+https://github.com/vedansh25work-arch/Cred-Card-dashboard-power-bi/blob/main/Credit%20Card%20Customer%20Report.png
+
 Transaction Report Dashboard
 
 
 
 **🎯 Project Objectives:**
 
-Analyze customer demographics and spending behavior.
-
-Monitor revenue across customer segments.
-
-Understand transaction patterns and payment methods.
-
-Compare the performance of different card categories.
-
-Support data-driven business decisions.
+- Analyze customer demographics and spending behavior.
+  
+- Monitor revenue across customer segments.
+  
+- Understand transaction patterns and payment methods.
+  
+- Compare the performance of different card categories.
+  
+- Support data-driven business decisions.
 
 
 **🛠️ Tools & Technologies:**
