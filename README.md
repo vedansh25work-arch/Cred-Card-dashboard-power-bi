@@ -5,12 +5,12 @@ This project is an interactive Power BI dashboard built to analyze credit card c
 
 The project consists of two dashboards:
 
-Customer Report Dashboard ->
+## 📊 Credit Card Customer Report Dashboard->
 
 <img src="Credit%20Card%20Customer%20Report.png" width="1000">
 
 
-## 📈 Transaction Report Dashboard
+## 📈 Credit Card Transaction Report Dashboard->
 
 <img src="Credit%20Card%20Transaction%20Report.png" width="1000">
 
